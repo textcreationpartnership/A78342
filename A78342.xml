@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the right honorable and noble lords, earles, viscounts, and barons, that have not absented themselves from the high and hon: house of the peeres of Parliament, and doe stand for the good of the king and kingdome in the parliamentary priviledges; and yet not gone to His Majestie at Yorke. Also a true and perfect relation of the particular passages at Yorke on Heworth-Moore, on Friday the 3. of Iune. 1642. With the names of the dukes, marquisses, earles, and lords, who now are with His Majesty at Yorke. Likewise an order from both houses of Parliament, concerning the ordering of the militia, directed to the deputy lievtenants of the respective counties throughout all England and dominion of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78342</idno>
+            <idno type="STC">Wing C1410AB</idno>
+            <idno type="STC">ESTC R233813</idno>
+            <idno type="EEBO-CITATION">47682816</idno>
+            <idno type="OCLC">ocm 47682816</idno>
+            <idno type="VID">172775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2649:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the right honorable and noble lords, earles, viscounts, and barons, that have not absented themselves from the high and hon: house of the peeres of Parliament, and doe stand for the good of the king and kingdome in the parliamentary priviledges; and yet not gone to His Majestie at Yorke. Also a true and perfect relation of the particular passages at Yorke on Heworth-Moore, on Friday the 3. of Iune. 1642. With the names of the dukes, marquisses, earles, and lords, who now are with His Majesty at Yorke. Likewise an order from both houses of Parliament, concerning the ordering of the militia, directed to the deputy lievtenants of the respective counties throughout all England and dominion of Wales.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Fawcet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1642. June 8.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and tightly bound.</note>
+                  <note>Reproduction of original in: Eton College. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Registers.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172775:1"/>
+            <!-- PDF PAGE 84 -->
+            <p>A CATALOGVE of the Right Honorable and Noble Lords, Earles, Viſcounts, and Ba<g ref="char:EOLhyphen"/>rons, that have not Abſented themſelves from the high and Hon: Houſe of the Peeres of Parlia<g ref="char:EOLhyphen"/>ment, and doe ſtand for the good of the KING and Kingdome in the Parliamentary Pri<g ref="char:EOLhyphen"/>viledges; and yet not gone to his MAJESTIE at YORKE.</p>
+            <p>Alſo a true and perfect Relation of the particular Paſſages at <hi>Yorke</hi> on <hi>Heworth-Moore,</hi> on Friday the 3. of <hi>Iune.</hi> 1642. With the Names of the Dukes, Marquiſſes, Earles, and Lords, who are now with his Majeſty at YORKE. Likewiſe an Order from both Houſes of Parli<g ref="char:EOLhyphen"/>ament, concerning the Ordering of the <hi>Militia,</hi> di<g ref="char:EOLhyphen"/>rected to the Deputy-Lievtenants of the re<g ref="char:EOLhyphen"/>ſpective Counties throughout all <hi>England,</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſing, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Fawcet,</hi> 1642. <hi>June</hi> 8.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_nobles">
+            <pb facs="tcp:172775:2"/>
+            <!-- PDF PAGE 85 -->
+            <pb n="1" facs="tcp:172775:2"/>
+            <!-- PDF PAGE 85 -->
+            <head>A Catalogue of the Right Hon<hi rend="sup">ble</hi>, and Noble Lords, Earles, Viſcounts, and Barons, that have not abſented themſelves from the high and Hon: Houſe of the Peeres of Parliament, &amp;c.</head>
+            <list>
+               <item>
+                  <seg rend="decorInit">E</seg>Arle of <hi>Northumberland.</hi>
+               </item>
+               <item>Earle of <hi>Bedford.</hi>
+               </item>
+               <item>Earle of <hi>Pembroke</hi> and <hi>Mountgo<g ref="char:EOLhyphen"/>merie.</hi>
+               </item>
+               <item>Earle of <hi>Eſſex</hi> and <hi>Ewe.</hi>
+               </item>
+               <item>Earle of <hi>Lincolne.</hi>
+               </item>
+               <item>Earle of <hi>Suffolke.</hi>
+               </item>
+               <item>Earle of <hi>Leiceſter.</hi>
+               </item>
+               <item>Earle of <hi>Warwicke.</hi>
+               </item>
+               <item>Earle of <hi>Holland.</hi>
+               </item>
+               <item>Earle of <hi>Bullingbroke.</hi>
+               </item>
+               <item>Earle of <hi>Peterborow.</hi>
+               </item>
+               <item>Earle of <hi>Stamford.</hi>
+               </item>
+               <item>Earle of <hi>Mancheſter.</hi>
+               </item>
+            </list>
+            <pb n="2" facs="tcp:172775:3"/>
+            <!-- PDF PAGE 86 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:172775:3"/>
+            <!-- PDF PAGE 86 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <list>
+               <pb n="2" facs="tcp:172775:4"/>
+               <!-- PDF PAGE 87 -->
+               <head>Lord Viſcount <hi>Say</hi> and <hi>Seyle.</hi>
+               </head>
+               <item>Lord <hi>Dacres.</hi>
+               </item>
+               <item>Lord <hi>Haſtings.</hi>
+               </item>
+               <item>Lord <hi>Cromwell.</hi>
+               </item>
+               <item>Lord <hi>Paget.</hi>
+               </item>
+               <item>Lord <hi>North.</hi>
+               </item>
+               <item>Lord <hi>Chandois.</hi>
+               </item>
+               <item>L. <hi>Willoughby</hi> of <hi>Parham</hi>
+               </item>
+               <item>Lord <hi>Wharton.</hi>
+               </item>
+               <item>Lord <hi>Hunſdon.</hi>
+               </item>
+               <item>Lord <hi>Saint-John.</hi>
+               </item>
+               <item>Lord <hi>Spencer.</hi>
+               </item>
+               <item>Lord <hi>Stanhope.</hi>
+               </item>
+               <item>L. <hi>Grey</hi> of the North.</item>
+               <item>Lord <hi>Roberts.</hi>
+               </item>
+               <item>Lord <hi>Mandevile.</hi>
+               </item>
+               <item>Lord <hi>Edward Howard</hi>
+               </item>
+               <item>Lord <hi>Brooke.</hi>
+               </item>
+               <item>Lord <hi>Fielding.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Other conſiderable Peeres, ſome for Age and Youth, and ſome for other Reaſons and In<g ref="char:EOLhyphen"/>firmities not commonly comming to Parliament.</head>
+               <item>Duke of <hi>Buckingham.</hi>
+               </item>
+               <item>Earle of <hi>Darby,</hi> aged.</item>
+               <item>Earle of <hi>Danby.</hi>
+               </item>
+               <item>Earle of <hi>Mulgrave.</hi>
+               </item>
+               <item>Earle of <hi>Rutland.</hi>
+               </item>
+               <item>Earle of <hi>Bridgewater.</hi>
+               </item>
+               <item>Earle of <hi>Huntingdon.</hi>
+               </item>
+               <item>Earle of <hi>Kent.</hi>
+               </item>
+               <item>Earle of <hi>Oxford.</hi>
+               </item>
+               <item>Earle of <hi>Suſſex.</hi>
+               </item>
+               <item>Earle of <hi>Exceſter.</hi>
+               </item>
+               <item>Earle of <hi>Notingham.</hi>
+               </item>
+               <item>Lord <hi>Harvey.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="3" facs="tcp:172775:4"/>
+               <!-- PDF PAGE 87 -->
+               <head>Yet other Peeres.</head>
+               <item>Earle of <hi>Briſtoll.</hi>
+               </item>
+               <item>Earle of <hi>Portland.</hi>
+               </item>
+               <item>Earle of <hi>Cleeveland,</hi>
+               </item>
+               <item>Lo. <hi>Wentworth</hi> his Son.</item>
+               <item>Lo. <hi>Herbert</hi> of <hi>Cherbury.</hi>
+               </item>
+               <item>Lord <hi>Powys.</hi>
+               </item>
+            </list>
+            <p>And for all theſe afore-named Lords, wee can<g ref="char:EOLhyphen"/>not ſay, any of them are Recuſant Popiſh Lords, who wee conceive have no Votes in PARLIAMENT.</p>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <date>Die Sabbati 4. Junij. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered by the Lords and Commons in Parliament, That the De<g ref="char:EOLhyphen"/>puty-Lievtenants of the ſeverall and re<g ref="char:EOLhyphen"/>ſpective Counties within the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> that are not Mem<g ref="char:EOLhyphen"/>bers of the Houſe of Commons, be hereby required and enjoyned to be preſent at the dayes, and places which are, or ſhall hereafter be appointed by the Lord Lievtenants, or their Deputies, for the Trai<g ref="char:EOLhyphen"/>ning, Muſtering, and Exerciſing of the Inhabitants of the ſaid Counties, according to the authority given unto them by an Ordinance of both Houſes of Par<g ref="char:EOLhyphen"/>liament. And it is further Ordered, That all Deputy-Lievtenants, aſwell thoſe that are Members of the Houſe of Commons, as others, ſhal give ſuch diſpatch by preparing of Warrants, Commiſſions, or Letters, and ſubſcribing of the ſame as the ſervice ſhall re<g ref="char:EOLhyphen"/>quire; And that ſuch as ſhall refuſe, or neglect ſo to
+<pb n="4" facs="tcp:172775:5"/>
+               <!-- PDF PAGE 88 -->doe, that their Names be certified unto us by their fellow-Deputies, or any one of them that ſhall or doe performe the ſaid, Service.</p>
+            <p>And it is further declared, that it is the intention of both Houſes, for the better incouragement of ſo good a Worke, ſo much conducing to the ſafety of his Maieſties perſon and King<g ref="char:EOLhyphen"/>domes that ſome of their Members at the times and places appointed, or to be appointed for the execution of the ſaid Ordinance, ſhall be ſent down to give their perſonall atten<g ref="char:EOLhyphen"/>dance upon the ſaid Service.</p>
+            <div type="license">
+               <p>Ordered to be printed</p>
+               <closer>
+                  <signed>Hen. Elſinge Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="account_of_royal_progress">
+            <head>A True and perfect Relation of the particu<g ref="char:EOLhyphen"/>lar paſſages at <hi>Yorke,</hi> on <date>Friday the third of <hi>Iune.</hi> 1642.</date>
+            </head>
+            <p>HIs Majeſty having ſummoned the Free-hol<g ref="char:EOLhyphen"/>ders of the County of <hi>Yorke,</hi> to appeare be<g ref="char:EOLhyphen"/>fore him on <hi>Heworth More,</hi> on the day above ſaid, to ſatisfie them concerning his intentions, many of them did appeare together with a great multitude of Labourers and poore people, as alſo divers of the Inhabitants of the County of <hi>Lancaſter,</hi> in all accor<g ref="char:EOLhyphen"/>ding to the eſtimate of my ſelfe, and divers others (judgment) about the number of ſeventy thouſands upwards, they came not in any warlike way, not p<gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> themſelves into any poſture or order, neither was <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> third part of the Free-holders and Farmers of <hi>York<g ref="char:EOLunhyphen"/>ſhire</hi> there.</p>
+            <p>His Majeſty had appointed 800 foot compleatly <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>med to guard his Petſon, and about 11. of the cl<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> came to the Field or Moore accompanied with a g<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> number of Lords and Knights of great quality.</p>
+            <p>
+               <pb n="5" facs="tcp:172775:5"/>
+               <!-- PDF PAGE 88 -->
+The Prince alſo led a troope of Horſe conſiſting of 150. Knights, Eſquires and Gentlemen, ſome where<g ref="char:EOLhyphen"/>of had foure, ſome three, and moſt two men a peece, which made another Troope.</p>
+            <p>As ſoon as his Majeſty came neer the Moore, the peo<g ref="char:EOLhyphen"/>ple did entertain him with a very loud ſhout, and be<g ref="char:EOLhyphen"/>ing come into the Moore, and as much ſilence made as could be, his Majeſty made a Speech, therein declaring his conſtancy in the Proteſtant Religion, and his great affection to that County, intimating that he reſolved to recide amongſt them in thoſe parts to keepe the Country in peace. His Speech being ended, he rode round the Moore, and about the number of 65000. followed him, crying all the way (God bleſſe the King) but the reſt which were about 5000 all Free-holders ſeparated themſelves to Petition to his Maje<g ref="char:EOLhyphen"/>ſty, and had their Petition ready to preſent to him, the effect of it, was to beſeech his Majeſty to come to the Parliament, &amp;c. but their Petition was intercepted by the Lord <hi>Savill,</hi> who carried himſelfe very ſtrange<g ref="char:EOLhyphen"/>ly in that particular, and in a forcible manner, ſuffered them not to deliver the ſame; His Majeſty having rode round the field, all the people brought him off the Moore with a great ſhoute, and there many left him, but 20000 accompanied him to the Court gate, and ſaw him ſafe at Court, and with a great ſhoute left him.</p>
+            <p>A great multitude of the people never came at the Field, but ſtaid in the City, and others came but into the Moore, when the reſt came out. And having thus made their appearance about eight of the clocke at night all were returned out of the Field.</p>
+         </div>
+         <div type="list_of_absentee_nobles">
+            <pb n="6" facs="tcp:172775:6"/>
+            <!-- PDF PAGE 89 -->
+            <head>A Catalogue of the Names of the <hi>Dukes, Mar<g ref="char:EOLhyphen"/>queſſes, Earles,</hi> and <hi>Lords,</hi> that Abſented them<g ref="char:EOLhyphen"/>ſelves from the PARLIAMENT, and are now with his Majeſty at <hi>Yorke.</hi>
+            </head>
+            <list>
+               <item>THe Lord Keeper.</item>
+               <item>Duke of <hi>Richmond.</hi>
+               </item>
+               <item>Marqueſſe of <hi>Hartford.</hi>
+               </item>
+               <item>Marqueſſe <hi>Hamilton.</hi>
+               </item>
+               <item>Earle of <hi>Cumberland.</hi>
+               </item>
+               <item>Earle of <hi>Bath.</hi>
+               </item>
+               <item>Earle of <hi>Southampton.</hi>
+               </item>
+               <item>Earle of <hi>Dorſet.</hi>
+               </item>
+               <item>Earle of <hi>Salisbury.</hi>
+               </item>
+               <item>Earle of <hi>Northampton.</hi>
+               </item>
+               <item>Earle of <hi>Devonſhire.</hi>
+               </item>
+               <item>Earle of <hi>Carlile.</hi>
+               </item>
+               <item>Earle of <hi>Clare.</hi>
+               </item>
+               <item>Earle of <hi>Weſtmorland.</hi>
+               </item>
+               <item>Earle of <hi>Monmouth.</hi>
+               </item>
+               <item>Earle of <hi>Lindſey.</hi>
+               </item>
+               <item>Earle of <hi>Newcaſtle.</hi>
+               </item>
+               <item>Earle of <hi>Dover.</hi>
+               </item>
+               <item>Earle of <hi>Canarvan.</hi>
+               </item>
+               <item>Earle of <hi>Newport.</hi>
+               </item>
+               <item>Earle of <hi>Thanet.</hi>
+               </item>
+               <item>Lord <hi>Moubray.</hi>
+               </item>
+               <item>Lord <hi>Strange.</hi>
+               </item>
+               <item>Lord <hi>Willoughby.</hi>
+               </item>
+               <item>Lord <hi>Longavill.</hi>
+               </item>
+               <item>Lord <hi>Rich.</hi>
+               </item>
+               <item>Lord <hi>Andover.</hi>
+               </item>
+               <item>Lord <hi>Faulkconbridge.</hi>
+               </item>
+               <item>Lord <hi>Lovelace.</hi>
+               </item>
+               <item>Lord <hi>Paulet.</hi>
+               </item>
+               <item>Lord <hi>Newarke.</hi>
+               </item>
+               <item>Lord <hi>Coventry.</hi>
+               </item>
+               <item>Lord <hi>Savill.</hi>
+               </item>
+               <item>Lord <hi>Dunſmore.</hi>
+               </item>
+               <item>Lord <hi>Seymor.</hi>
+               </item>
+               <item>Lord <hi>Capell.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
